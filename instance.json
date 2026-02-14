@@ -1,0 +1,680 @@
+{
+	"name": "CubeShield 8: Middle Ages",
+	"description": "Testim",
+	"containers": [
+		{
+			"content_type": "mods",
+			"content": [
+				{
+					"file": "fabric-api-0.92.2+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/P7uGFii0/fabric-api-0.92.2%2B1.20.1.jar"
+				},
+				{
+					"file": "fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
+					"url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/csX9r2wS/fabric-language-kotlin-1.13.0%2Bkotlin.2.1.0.jar"
+				},
+				{
+					"file": "create-fabric-0.5.1-f-build.1417+mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/Xbc0uyRg/versions/h2HgGyvA/create-fabric-0.5.1-f-build.1417%2Bmc1.20.1.jar"
+				},
+				{
+					"file": "sliceanddice-fabric-3.3.1.jar",
+					"url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/EzpVcwYV/sliceanddice-fabric-3.3.1.jar"
+				},
+				{
+					"file": "GlitchCore-fabric-1.20.1-0.0.1.1.jar",
+					"url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/25HLOiOl/GlitchCore-fabric-1.20.1-0.0.1.1.jar"
+				},
+				{
+					"file": "ToughAsNails-fabric-1.20.1-9.2.0.171.jar",
+					"url": "https://cdn.modrinth.com/data/ge1sOdFH/versions/VaFrDMPi/ToughAsNails-fabric-1.20.1-9.2.0.171.jar"
+				},
+				{
+					"file": "diet-fabric-2.1.1+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/SsIkH9rZ/versions/ZHwy8qdO/diet-fabric-2.1.1%2B1.20.1.jar"
+				},
+				{
+					"file": "more_mobs-v1.5.3-mc1.14x-1.21x-mod.jar",
+					"url": "https://cdn.modrinth.com/data/HJR6V0I2/versions/qpRAwRNN/more_mobs-v1.5.3-mc1.14x-1.21x-mod.jar"
+				},
+				{
+					"file": "mobs_of_mythology-fabric-1.20.1-2.0.3.jar",
+					"url": "https://cdn.modrinth.com/data/avrKhvsK/versions/zTV1z8pA/mobs_of_mythology-fabric-1.20.1-2.0.3.jar"
+				},
+				{
+					"file": "architectury-9.2.14-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/WbL7MStR/architectury-9.2.14-fabric.jar"
+				},
+				{
+					"file": "SmartBrainLib-fabric-1.20.1-1.15.jar",
+					"url": "https://cdn.modrinth.com/data/PuyPazRT/versions/ft0ElRBl/SmartBrainLib-fabric-1.20.1-1.15.jar"
+				},
+				{
+					"file": "azurelib-fabric-1.20.1-2.0.39.jar",
+					"url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/lpeLzQcX/azurelib-fabric-1.20.1-2.0.39.jar"
+				},
+				{
+					"file": "cloth-config-11.1.136-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar"
+				},
+				{
+					"file": "ferritecore-6.0.1-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar"
+				},
+				{
+					"file": "appleskin-fabric-mc1.20.1-2.5.1.jar",
+					"url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar"
+				},
+				{
+					"file": "krypton-0.2.3.jar",
+					"url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/jiDwS0W1/krypton-0.2.3.jar"
+				},
+				{
+					"file": "voicechat-fabric-1.20.1-2.5.26.jar",
+					"url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/HBrEziAK/voicechat-fabric-1.20.1-2.5.26.jar"
+				},
+				{
+					"file": "supplementaries-1.20-3.1.9-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/AYGnbOIe/supplementaries-1.20-3.1.9-fabric.jar"
+				},
+				{
+					"file": "moonlight-1.20-2.13.30-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/twkfQtEc/versions/g0d3msdv/moonlight-1.20-2.13.30-fabric.jar"
+				},
+				{
+					"file": "PuzzlesLib-v8.1.25-1.20.1-Fabric.jar",
+					"url": "https://cdn.modrinth.com/data/QAGBst4M/versions/qjSRRf2B/PuzzlesLib-v8.1.25-1.20.1-Fabric.jar"
+				},
+				{
+					"file": "MRU-1.0.4+1.20.1+fabric.jar",
+					"url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/iug2Tybf/MRU-1.0.4%2B1.20.1%2Bfabric.jar"
+				},
+				{
+					"file": "VisualWorkbench-v8.0.0-1.20.1-Fabric.jar",
+					"url": "https://cdn.modrinth.com/data/kfqD1JRw/versions/vhuwOiNO/VisualWorkbench-v8.0.0-1.20.1-Fabric.jar"
+				},
+				{
+					"file": "handcrafted-fabric-1.20.1-3.0.6.jar",
+					"url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/NRw0CDAc/handcrafted-fabric-1.20.1-3.0.6.jar"
+				},
+				{
+					"file": "resourcefullib-fabric-1.20.1-2.1.29.jar",
+					"url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/UOdaYbhh/resourcefullib-fabric-1.20.1-2.1.29.jar"
+				},
+				{
+					"file": "waystones-fabric-1.20-14.1.6.jar",
+					"url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/FOC8o94m/waystones-fabric-1.20-14.1.6.jar"
+				},
+				{
+					"file": "balm-fabric-1.20.1-7.3.9.jar",
+					"url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/5sowswPx/balm-fabric-1.20.1-7.3.9.jar"
+				},
+				{
+					"file": "Philips-Ruins1.20.1-4.6[Fabric].jar",
+					"url": "https://cdn.modrinth.com/data/KdJhOYVV/versions/jLHLFjce/Philips-Ruins1.20.1-4.6%5BFabric%5D.jar"
+				},
+				{
+					"file": "SnowRealMagic-1.20.1-Fabric-10.5.4.jar",
+					"url": "https://cdn.modrinth.com/data/iJNje1E8/versions/POmpo1V9/SnowRealMagic-1.20.1-Fabric-10.5.4.jar"
+				},
+				{
+					"file": "Kiwi-1.20.1-Fabric-11.8.26.jar",
+					"url": "https://cdn.modrinth.com/data/ufdDoWPd/versions/lhlLIEoV/Kiwi-1.20.1-Fabric-11.8.26.jar"
+				},
+				{
+					"file": "immersive_armors-1.6.1+1.20.1-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/Waf0D48D/immersive_armors-1.6.1%2B1.20.1-fabric.jar"
+				},
+				{
+					"file": "fabric-seasons-2.4.2-BETA+1.20.jar",
+					"url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/sdV8aBn8/fabric-seasons-2.4.2-BETA%2B1.20.jar"
+				},
+				{
+					"file": "Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/hiLb6QFe/Not%20Enough%20Recipe%20Book-FABRIC-0.4.1%2B1.20.1.jar"
+				},
+				{
+					"file": "OctoLib-FABRIC-0.4.2+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/DRKm1Gzh/OctoLib-FABRIC-0.4.2%2B1.20.1.jar"
+				},
+				{
+					"file": "Hephaestus-1.20.1-3.6.4.279.jar",
+					"url": "https://cdn.modrinth.com/data/sdSn3wvy/versions/IQqKnFcN/Hephaestus-1.20.1-3.6.4.279.jar"
+				},
+				{
+					"file": "surveyor-0.6.25+1.20.jar",
+					"url": "https://cdn.modrinth.com/data/4KjqhPc9/versions/LsmOscmT/surveyor-0.6.25%2B1.20.jar"
+				},
+				{
+					"file": "surveystones-1.3.1+1.20.jar",
+					"url": "https://cdn.modrinth.com/data/f3WJvB4r/versions/uCGKKBKc/surveystones-1.3.1%2B1.20.jar"
+				},
+				{
+					"file": "FarmersDelight-1.20.1-2.2.0+refabricated.jar",
+					"url": "https://cdn.modrinth.com/data/7vxePowz/versions/vXPVU0EZ/FarmersDelight-1.20.1-2.2.0%2Brefabricated.jar"
+				},
+				{
+					"file": "brewinandchewin-3.0.6+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/e4G0uSdm/versions/ZieRTW8y/brewinandchewin-3.0.6%2B1.20.1.jar"
+				},
+				{
+					"file": "delightful-creators-1.3-1.20.x-FDR-support.jar",
+					"url": "https://cdn.modrinth.com/data/jmJ87gsb/versions/u29d1nXQ/delightful-creators-1.3-1.20.x-FDR-support.jar"
+				},
+				{
+					"file": "salt-1.0.0.jar",
+					"url": "https://cdn.modrinth.com/data/wf0nnXoC/versions/Q2ehckP3/salt-1.0.0.jar"
+				},
+				{
+					"file": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+					"url": "https://cdn.modrinth.com/data/gedNE4y2/versions/yDqYTUaf/player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar"
+				},
+				{
+					"file": "bettercombat-fabric-1.8.6+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/qxfX3jsR/bettercombat-fabric-1.8.6%2B1.20.1.jar"
+				},
+				{
+					"file": "walk-jog-run-1.1.0+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/S7uYYMZC/versions/MGbIK8KN/walk-jog-run-1.1.0%2B1.20.1.jar"
+				},
+				{
+					"file": "combatroll-fabric-1.3.3+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/wGKYL7st/versions/FyOp03FS/combatroll-fabric-1.3.3%2B1.20.1.jar"
+				},
+				{
+					"file": "scholar-1.20.1-1.0.0-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/fX4dIQCo/versions/s6nWdY8b/scholar-1.20.1-1.0.0-fabric.jar"
+				},
+				{
+					"file": "sodium-fabric-0.5.11+mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/AANobbMI/versions/ygf8cVZg/sodium-fabric-0.5.11%2Bmc1.20.1.jar"
+				},
+				{
+					"file": "sodium-extra-0.5.4+mc1.20.1-build.115.jar",
+					"url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/I7ggF6B5/sodium-extra-0.5.4%2Bmc1.20.1-build.115.jar"
+				},
+				{
+					"file": "iris-1.7.5+mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Bi9nvICq/iris-1.7.5%2Bmc1.20.1.jar"
+				},
+				{
+					"file": "modmenu-7.2.2.jar",
+					"url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/lEkperf6/modmenu-7.2.2.jar"
+				},
+				{
+					"file": "lithium-fabric-mc1.20.1-0.11.2.jar",
+					"url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ZSNsJrPI/lithium-fabric-mc1.20.1-0.11.2.jar"
+				},
+				{
+					"file": "ImmediatelyFast-Fabric-1.3.2+1.20.4.jar",
+					"url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/eUAoLISt/ImmediatelyFast-Fabric-1.3.2%2B1.20.4.jar"
+				},
+				{
+					"file": "indium-1.0.34+mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/gofbpynL/indium-1.0.34%2Bmc1.20.1.jar"
+				},
+				{
+					"file": "modernfix-fabric-5.19.5+mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/nmDcB62a/versions/qIu7zOc4/modernfix-fabric-5.19.5%2Bmc1.20.1.jar"
+				},
+				{
+					"file": "entity_model_features_fabric_1.20.1-2.2.6.jar",
+					"url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/QoWmvvjv/entity_model_features_fabric_1.20.1-2.2.6.jar"
+				},
+				{
+					"file": "entity_texture_features_fabric_1.20.1-6.2.8.jar",
+					"url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/3VwlPPf2/entity_texture_features_fabric_1.20.1-6.2.8.jar"
+				},
+				{
+					"file": "enhancedblockentities-0.9+1.20.jar",
+					"url": "https://cdn.modrinth.com/data/OVuFYfre/versions/i3v1Skck/enhancedblockentities-0.9%2B1.20.jar"
+				},
+				{
+					"file": "continuity-3.0.0-beta.5+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/1IjD5062/versions/84Zs6tNo/continuity-3.0.0-beta.5%2B1.20.1.jar"
+				},
+				{
+					"file": "dynamic-fps-3.7.6+minecraft-1.20.0-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/l1WIlBBy/dynamic-fps-3.7.6%2Bminecraft-1.20.0-fabric.jar"
+				},
+				{
+					"file": "memoryleakfix-fabric-1.17+-1.1.5.jar",
+					"url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fabric-1.17%2B-1.1.5.jar"
+				},
+				{
+					"file": "chat_heads-0.13.6-fabric-1.20.jar",
+					"url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/20wSQ2VU/chat_heads-0.13.6-fabric-1.20.jar"
+				},
+				{
+					"file": "MouseTweaks-fabric-mc1.20-2.26.jar",
+					"url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/mjuG4AYd/MouseTweaks-fabric-mc1.20-2.26.jar"
+				},
+				{
+					"file": "DynamicSurroundings-Fabric-1.20.1-0.3.3.jar",
+					"url": "https://cdn.modrinth.com/data/H7fshfpD/versions/SQuUb0Fo/DynamicSurroundings-Fabric-1.20.1-0.3.3.jar"
+				},
+				{
+					"file": "Sounds-2.2.0+1.20.1+fabric.jar",
+					"url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/GgnyeUEX/Sounds-2.2.0%2B1.20.1%2Bfabric.jar"
+				},
+				{
+					"file": "AmbientSounds_FABRIC_v6.1.3_mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/fM515JnW/versions/kS9Fisgg/AmbientSounds_FABRIC_v6.1.3_mc1.20.1.jar"
+				},
+				{
+					"file": "CreativeCore_FABRIC_v2.12.22_mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/INXBZl4Y/CreativeCore_FABRIC_v2.12.22_mc1.20.1.jar"
+				},
+				{
+					"file": "animatica-0.6.1+1.20.4.jar",
+					"url": "https://cdn.modrinth.com/data/PRN43VSY/versions/M2xzBL7h/animatica-0.6.1%2B1.20.4.jar"
+				},
+				{
+					"file": "eating-animation-1.20+1.9.61.jar",
+					"url": "https://cdn.modrinth.com/data/rUgZvGzi/versions/AqXSvu6M/eating-animation-1.20%2B1.9.61.jar"
+				},
+				{
+					"file": "bobby-5.0.1.jar",
+					"url": "https://cdn.modrinth.com/data/M08ruV16/versions/2cuVyTav/bobby-5.0.1.jar"
+				},
+				{
+					"file": "emi-1.1.18+1.20.1+fabric.jar",
+					"url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/7z8wc2Iv/emi-1.1.18%2B1.20.1%2Bfabric.jar"
+				},
+				{
+					"file": "LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
+					"url": "https://cdn.modrinth.com/data/atHH8NyV/versions/fvJtXL6i/LegendaryTooltips-1.20.1-fabric-1.4.5.jar"
+				},
+				{
+					"file": "Prism-1.20.1-fabric-1.0.5.jar",
+					"url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/Fmetb8IP/Prism-1.20.1-fabric-1.0.5.jar"
+				},
+				{
+					"file": "Iceberg-1.20.1-fabric-1.1.25.jar",
+					"url": "https://cdn.modrinth.com/data/5faXoLqX/versions/AiO84cp2/Iceberg-1.20.1-fabric-1.1.25.jar"
+				},
+				{
+					"file": "ForgeConfigAPIPort-v8.0.1-1.20.1-Fabric.jar",
+					"url": "https://cdn.modrinth.com/data/ohNO6lps/versions/Qs8LaZLo/ForgeConfigAPIPort-v8.0.1-1.20.1-Fabric.jar"
+				},
+				{
+					"file": "fast-ip-ping-v1.0.5-mc1.20.4-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/G8gwjTTP/fast-ip-ping-v1.0.5-mc1.20.4-fabric.jar"
+				},
+				{
+					"file": "stendhal-1.4.1-1.20.jar",
+					"url": "https://cdn.modrinth.com/data/BWloQ9jK/versions/Uj1peBrG/stendhal-1.4.1-1.20.jar"
+				},
+				{
+					"file": "macos-input-fixes-1.7.jar",
+					"url": "https://cdn.modrinth.com/data/x9BrsVME/versions/xYZZSPef/macos-input-fixes-1.7.jar"
+				},
+				{
+					"file": "ToolStats-Fabric-1.20.1-16.0.9.jar",
+					"url": "https://cdn.modrinth.com/data/vuGFx44e/versions/o4CYZoEP/ToolStats-Fabric-1.20.1-16.0.9.jar"
+				},
+				{
+					"file": "durabilitytooltip-1.1.5-fabric-mc1.20.jar",
+					"url": "https://cdn.modrinth.com/data/smUP7V3r/versions/WmJeyttw/durabilitytooltip-1.1.5-fabric-mc1.20.jar"
+				},
+				{
+					"file": "no-resource-pack-warnings-1.3.0.jar",
+					"url": "https://cdn.modrinth.com/data/6xKUDQcB/versions/Cs4frYPf/no-resource-pack-warnings-1.3.0.jar"
+				},
+				{
+					"file": "DetailArmorBar-2.6.3+1.20.1-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/hAt6ty93/versions/bFQ1ISy6/DetailArmorBar-2.6.3%2B1.20.1-fabric.jar"
+				},
+				{
+					"file": "chatanimation-1.0.5.jar",
+					"url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/hn2TlcOt/chatanimation-1.0.5.jar"
+				},
+				{
+					"file": "antique-atlas-2.10.0+1.20.jar",
+					"url": "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/lFYHSK5X/antique-atlas-2.10.0%2B1.20.jar"
+				},
+				{
+					"file": "supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+					"url": "https://cdn.modrinth.com/data/LN9BxssP/versions/Ur02nrUT/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar"
+				},
+				{
+					"file": "Bookshelf-Fabric-1.20.1-20.2.13.jar",
+					"url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/CBnLZwRS/Bookshelf-Fabric-1.20.1-20.2.13.jar"
+				},
+				{
+					"file": "Fog-fabric-1.5.2-1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/WuGVWUF2/versions/s9OtJxdw/Fog-fabric-1.5.2-1.20.1.jar"
+				},
+				{
+					"file": "audioplayer-fabric-1.20.1-1.13.1.jar",
+					"url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/7LsFhSCP/audioplayer-fabric-1.20.1-1.13.1.jar"
+				},
+				{
+					"file": "YungsApi-1.20-Fabric-4.0.6.jar",
+					"url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/lscV1N5k/YungsApi-1.20-Fabric-4.0.6.jar"
+				},
+				{
+					"file": "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+					"url": "https://cdn.modrinth.com/data/HjmxVlSr/versions/qLnQnqXS/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
+				},
+				{
+					"file": "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+					"url": "https://cdn.modrinth.com/data/Z2mXHnxP/versions/FL88RLRu/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar"
+				},
+				{
+					"file": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+					"url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/nidyvq2m/YungsBetterDungeons-1.20-Fabric-4.0.4.jar"
+				},
+				{
+					"file": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+					"url": "https://cdn.modrinth.com/data/t5FRdP87/versions/lYpHN3iF/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar"
+				},
+				{
+					"file": "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+					"url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/qJTsmyiE/YungsBetterEndIsland-1.20-Fabric-2.0.6.jar"
+				},
+				{
+					"file": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+					"url": "https://cdn.modrinth.com/data/kidLKymU/versions/yV6hn0bB/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
+				},
+				{
+					"file": "YungsBridges-1.20-Fabric-4.0.3.jar",
+					"url": "https://cdn.modrinth.com/data/Ht4BfYp6/versions/hvfjXu8d/YungsBridges-1.20-Fabric-4.0.3.jar"
+				},
+				{
+					"file": "YungsExtras-1.20-Fabric-4.0.3.jar",
+					"url": "https://cdn.modrinth.com/data/ZYgyPyfq/versions/pfVTUz1L/YungsExtras-1.20-Fabric-4.0.3.jar"
+				},
+				{
+					"file": "Terralith_1.20.x_v2.5.4.jar",
+					"url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar"
+				},
+				{
+					"file": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+					"url": "https://cdn.modrinth.com/data/DjLobEOy/versions/7ZwnSrVW/Towns-and-Towers-1.12-Fabric%2BForge.jar"
+				},
+				{
+					"file": "cristellib-1.1.5-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/cl223EMc/versions/tBnivdbu/cristellib-1.1.5-fabric.jar"
+				},
+				{
+					"file": "dungeons-and-taverns-3.0.3.f.jar",
+					"url": "https://cdn.modrinth.com/data/tpehi7ww/versions/d1sY0JqV/dungeons-and-taverns-3.0.3.f.jar"
+				},
+				{
+					"file": "jamlib-0.6.1+1.20.x.jar",
+					"url": "https://cdn.modrinth.com/data/IYY9Siz8/versions/vVYtBiuW/jamlib-0.6.1%2B1.20.x.jar"
+				},
+				{
+					"file": "Chunky-1.3.146.jar",
+					"url": "https://cdn.modrinth.com/data/fALzjamp/versions/NHWYq9at/Chunky-1.3.146.jar"
+				},
+				{
+					"file": "DungeonsArise-1.20.1-2.1.57-fabric-release.jar",
+					"url": "https://cdn.modrinth.com/data/8DfbfASn/versions/Vd5XOXlj/DungeonsArise-1.20.1-2.1.57-fabric-release.jar"
+				},
+				{
+					"file": "right-click-harvest-3.2.3+1.19.x-1.20.1-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/Cnejf5xM/versions/4UWabEWo/right-click-harvest-3.2.3%2B1.19.x-1.20.1-fabric.jar"
+				},
+				{
+					"file": "graves-3.0.3+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/yn9u3ypm/versions/66RxRZcI/graves-3.0.3%2B1.20.1.jar"
+				},
+				{
+					"file": "tectonic-fabric-1.20.1-2.4.1b.jar",
+					"url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/8JhzXwo0/tectonic-fabric-1.20.1-2.4.1b.jar"
+				},
+				{
+					"file": "fabric-seasons-delight-1.3.9-compat-1.0.jar",
+					"url": "https://cdn.modrinth.com/data/4VYO7ir0/versions/KIzyS8hk/fabric-seasons-delight-1.3.9-compat-1.0.jar"
+				},
+				{
+					"file": "antixray-fabric-1.4.6+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/sml2FMaA/versions/6vxHsVZq/antixray-fabric-1.4.6%2B1.20.1.jar"
+				},
+				{
+					"file": "TerraBlender-fabric-1.20.1-3.0.1.7.jar",
+					"url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/FZV63yhg/TerraBlender-fabric-1.20.1-3.0.1.7.jar"
+				},
+				{
+					"file": "geckolib-fabric-1.20.1-4.4.9.jar",
+					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/9VG3hx3F/geckolib-fabric-1.20.1-4.4.9.jar"
+				},
+				{
+					"file": "immersive_melodies-0.3.0+1.20.1-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/oVk9fOQD/immersive_melodies-0.3.0%2B1.20.1-fabric.jar"
+				},
+				{
+					"file": "spyglass-improvements-1.5.1+mc1.20+fabric.jar",
+					"url": "https://cdn.modrinth.com/data/Z6ykjRlM/versions/4PmfgG4q/spyglass-improvements-1.5.1%2Bmc1.20%2Bfabric.jar"
+				},
+				{
+					"file": "ShoulderSurfing-Fabric-1.20.1-4.6.2.jar",
+					"url": "https://cdn.modrinth.com/data/kepjj2sy/versions/EpNJJL8u/ShoulderSurfing-Fabric-1.20.1-4.6.2.jar"
+				},
+				{
+					"file": "DarkModeEverywhere-1.20.1-1.2.2.jar",
+					"url": "https://cdn.modrinth.com/data/bJF8eNMy/versions/fJBoR9FK/DarkModeEverywhere-1.20.1-1.2.2.jar"
+				},
+				{
+					"file": "borderless-mining-1.1.8+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/kYq5qkSL/versions/lhrW53q7/borderless-mining-1.1.8%2B1.20.1.jar"
+				},
+				{
+					"file": "Explorify v1.6.2 f10-48.jar",
+					"url": "https://cdn.modrinth.com/data/HSfsxuTo/versions/yRSH0sWM/Explorify%20v1.6.2%20f10-48.jar"
+				},
+				{
+					"file": "weaponmaster_ydm-fabric-1.20.1-4.2.6.jar",
+					"url": "https://cdn.modrinth.com/data/qi1sj2da/versions/jV5BFDGB/weaponmaster_ydm-fabric-1.20.1-4.2.6.jar"
+				},
+				{
+					"file": "connectiblechains-2.2.1+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/ykSfIgTw/versions/qSAa0vuB/connectiblechains-2.2.1%2B1.20.1.jar"
+				},
+				{
+					"file": "farmerz_delightz-1.0.jar",
+					"url": "https://cdn.modrinth.com/data/OIfTXyD3/versions/eZB2k08Q/farmerz_delightz-1.0.jar"
+				},
+				{
+					"file": "levelz-1.4.13.jar",
+					"url": "https://cdn.modrinth.com/data/EFtixeiF/versions/gYSnmSW4/levelz-1.4.13.jar"
+				},
+				{
+					"file": "libz-1.0.3.jar",
+					"url": "https://cdn.modrinth.com/data/yUBXc3AH/versions/BEPAjfEE/libz-1.0.3.jar"
+				},
+				{
+					"file": "createz_1.0.jar",
+					"url": "https://cdn.modrinth.com/data/py6IRdZ8/versions/t0KB6D6q/createz_1.0.jar"
+				},
+				{
+					"file": "majruszs-difficulty-fabric-1.20.1-1.9.10.jar",
+					"url": "https://cdn.modrinth.com/data/GGDBwjOg/versions/4QlCUN5g/majruszs-difficulty-fabric-1.20.1-1.9.10.jar"
+				},
+				{
+					"file": "majrusz-library-fabric-1.20.1-7.0.8.jar",
+					"url": "https://cdn.modrinth.com/data/PYQD8noM/versions/nfkUUMHq/majrusz-library-fabric-1.20.1-7.0.8.jar"
+				},
+				{
+					"file": "draggable_lists-mc1.20-1.0.1-rev.824b2f3.jar",
+					"url": "https://cdn.modrinth.com/data/aLcHfalx/versions/heA62vSK/draggable_lists-mc1.20-1.0.1-rev.824b2f3.jar"
+				},
+				{
+					"file": "NoEnd-0.0.4.jar",
+					"url": "https://cdn.modrinth.com/data/PL5F9WAX/versions/qYG6nAwp/NoEnd-0.0.4.jar"
+				},
+				{
+					"file": "kubejs-fabric-2001.6.5-build.16.jar",
+					"url": "https://cdn.modrinth.com/data/umyGl7zF/versions/kPLHkyoJ/kubejs-fabric-2001.6.5-build.16.jar"
+				},
+				{
+					"file": "rhino-fabric-2001.2.3-build.6.jar",
+					"url": "https://cdn.modrinth.com/data/sk9knFPE/versions/WradV9Zu/rhino-fabric-2001.2.3-build.6.jar"
+				},
+				{
+					"file": "vistas-2.5.2.jar",
+					"url": "https://cdn.modrinth.com/data/itzZXRxq/versions/hF63O0j5/vistas-2.5.2.jar"
+				},
+				{
+					"file": "DarkTitleBar-1.2.jar",
+					"url": "https://cdn.modrinth.com/data/wAP4f8Jf/versions/s2ls7zW9/DarkTitleBar-1.2.jar"
+				},
+				{
+					"file": "skinrestorer-2.2.1+1.20-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/ghrZDhGW/versions/NYAVBAQy/skinrestorer-2.2.1%2B1.20-fabric.jar"
+				},
+				{
+					"file": "skinlayers3d-fabric-1.7.4-mc1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/5edNc5ga/skinlayers3d-fabric-1.7.4-mc1.20.1.jar"
+				},
+				{
+					"file": "styled-chat-2.2.3+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/doqSKB0e/versions/7dmapSQA/styled-chat-2.2.3%2B1.20.1.jar"
+				},
+				{
+					"file": "styledplayerlist-3.1.1+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/DQIfKUHf/versions/4FqvobxB/styledplayerlist-3.1.1%2B1.20.1.jar"
+				},
+				{
+					"file": "easyauth-mc1.20-3.0.19.jar",
+					"url": "https://cdn.modrinth.com/data/aZj58GfX/versions/lRzVGc9w/easyauth-mc1.20-3.0.19.jar"
+				},
+				{
+					"file": "visuality-0.7.1+1.20.jar",
+					"url": "https://cdn.modrinth.com/data/rI0hvYcd/versions/uhvQD6Ny/visuality-0.7.1%2B1.20.jar"
+				},
+				{
+					"file": "minimotd-fabric-mc1.20.1-2.0.13.jar",
+					"url": "https://cdn.modrinth.com/data/16vhQOQN/versions/SxaMhttu/minimotd-fabric-mc1.20.1-2.0.13.jar"
+				},
+				{
+					"file": "trinkets-3.7.2.jar",
+					"url": "https://cdn.modrinth.com/data/5aaWibi9/versions/AHxQGtuC/trinkets-3.7.2.jar"
+				},
+				{
+					"file": "cardinal-components-api-5.2.2.jar",
+					"url": "https://cdn.modrinth.com/data/K01OU20C/versions/qW85eawp/cardinal-components-api-5.2.2.jar"
+				},
+				{
+					"file": "BOMD-1.7.5-1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/du3UfiLL/versions/yoCCX4Cc/BOMD-1.7.5-1.20.1.jar"
+				},
+				{
+					"file": "creeperoverhaul-3.0.2-fabric.jar",
+					"url": "https://cdn.modrinth.com/data/MI1LWe93/versions/Mw0Hq1SZ/creeperoverhaul-3.0.2-fabric.jar"
+				},
+				{
+					"file": "smallships-fabric-1.20.1-2.0.0-b1.4.jar",
+					"url": "https://cdn.modrinth.com/data/rGWEHQrP/versions/gpbYUuEr/smallships-fabric-1.20.1-2.0.0-b1.4.jar"
+				},
+				{
+					"file": "SnowUnderTrees-2.5.4+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/XVnUIUAQ/versions/Wm7ocjvH/SnowUnderTrees-2.5.4%2B1.20.1.jar"
+				},
+				{
+					"file": "resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+					"url": "https://cdn.modrinth.com/data/M1953qlQ/versions/PlEObkl9/resourcefulconfig-fabric-1.20.1-2.1.2.jar"
+				},
+				{
+					"file": "Obscure-API-16.jar",
+					"url": "https://cdn.modrinth.com/data/fU7jbFHc/versions/IWDYxZre/Obscure-API-16.jar"
+				},
+				{
+					"file": "niftycarts-20.1.3.jar",
+					"url": "https://cdn.modrinth.com/data/CXd6g9xp/versions/rdFxc9mZ/niftycarts-20.1.3.jar"
+				},
+				{
+					"file": "AdaptiveTooltips-1.3.0-fabric-1.20.2.jar",
+					"url": "https://cdn.modrinth.com/data/wFv8yCxM/versions/MgbaLEPy/AdaptiveTooltips-1.3.0-fabric-1.20.2.jar"
+				},
+				{
+					"file": "runes-0.9.13+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/lP9Yrr1E/versions/Z915LCkR/runes-0.9.13%2B1.20.1.jar"
+				},
+				{
+					"file": "spell_engine-0.15.12+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/XvoWJaA2/versions/Fh2MJAAe/spell_engine-0.15.12%2B1.20.1.jar"
+				},
+				{
+					"file": "spell_power-0.12.0+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/8ooWzSQP/versions/G74msHHs/spell_power-0.12.0%2B1.20.1.jar"
+				},
+				{
+					"file": "wizards-1.3.0+1.20.1.jar",
+					"url": "https://cdn.modrinth.com/data/NkGaQMDA/versions/hMGphtUf/wizards-1.3.0%2B1.20.1.jar"
+				},
+				{
+					"file": "azurelibarmor-fabric-1.20.1-2.0.14.jar",
+					"url": "https://cdn.modrinth.com/data/pduQXSbl/versions/tSxCdYXC/azurelibarmor-fabric-1.20.1-2.0.14.jar"
+				},
+				{
+					"file": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+					"url": "https://cdn.modrinth.com/data/gedNE4y2/versions/yDqYTUaf/player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar"
+				},
+				{
+					"file": "rebind_narrator-fabric-1.20.1-2.0.2.jar",
+					"url": "https://cdn.modrinth.com/data/qw2Ls89j/versions/WGRiAAhJ/rebind_narrator-fabric-1.20.1-2.0.2.jar"
+				},
+				{
+					"file": "HorseBuff-1.20-2.1.2.jar",
+					"url": "https://cdn.modrinth.com/data/IrrG0G8l/versions/20xITMg4/HorseBuff-1.20-2.1.2.jar"
+				},
+				{
+					"file": "fsit-2.7.2+mc1.20.jar",
+					"url": "https://cdn.modrinth.com/data/J5NAzRqK/versions/F73N45ZN/fsit-2.7.2%2Bmc1.20.jar"
+				},
+				{
+					"file": "jobsaddon-1.1.6.jar",
+					"url": "https://cdn.modrinth.com/data/whv2X0ei/versions/PDVZqlFW/jobsaddon-1.1.6.jar"
+				},
+				{
+					"file": "kubejs-create-fabric-2024.8.12-build.1.jar",
+					"url": "https://edge.forgecdn.net/files/5621/847/kubejs-create-fabric-2024.8.12-build.1.jar"
+				},
+				{
+					"file": "Festive_Delight_1.1_Fabric_1.20.1-FIX.jar",
+					"url": "https://github.com/fadegor05/CubeTranslation/releases/download/v1.0/Festive_Delight_1.1_Fabric_1.20.1-FIX.jar"
+				},
+				{
+					"file": "better-combat-extended.jar",
+					"url": "https://github.com/fadegor05/CubeTranslation/releases/download/v1.0/better-combat-extended.jar"
+				},
+				{
+					"file": "cubefear-v1.0.jar",
+					"url": "https://github.com/fadegor05/CubeFear/releases/download/v1.0/cubefear-1.0.jar"
+				},
+				{
+					"file": "cubebalancez-v1.3.jar",
+					"url": "https://github.com/fadegor05/CubeTranslation/releases/download/v1.0/CubeBalanceZ-v1.3.jar"
+				},
+				{
+					"file": "cubeapply-v1.0.jar",
+					"url": "https://github.com/fadegor05/CubeApply/releases/download/v1.0/cubeapply-1.0.jar"
+				},
+				{
+					"file": "cubeeconomy-v1.0.1.jar",
+					"url": "https://github.com/fadegor05/CubeEconomy/releases/download/v1.0/CubeEconomy-1.0.1.jar"
+				},
+				{
+					"file": "cubepack-v1.2.jar",
+					"url": "https://github.com/fadegor05/CubeTranslation/releases/download/v1.0/CubePack-v1.2.jar"
+				},
+				{
+					"file": "hide-1.2.jar",
+					"url": "https://github.com/fadegor05/CubeTranslation/releases/download/v1.0/hide-1.2.jar"
+				}
+			]
+		},
+		{
+			"content_type": "resourcepacks",
+			"content": [
+				{
+					"file": "Eyeless Fresh Moves v3.0.1.zip",
+					"url": "https://cdn.modrinth.com/data/slufHzC2/versions/czKkLETN/Eyeless%20Fresh%20Moves%20v3.0.1.zip"
+				}
+			]
+		}
+	]
+}
