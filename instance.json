@@ -2,6 +2,9 @@
 	"name": "CubeShield 8: Middle Ages",
 	"description": "Этот сезон является RolePlay, однако не в привычном вам понимании (Это не GTA5 RP), главная суть заключается в естественности, вы не описываете своих действий, не делаете что-то потому что так нужно, а как бы вживаетесь в свою роль, используете голосовой чат для большего погружения, никто вас не ограничивает, единственно, что необходимо - следование сеттингу Средневековья.",
 	"image_url": "https://raw.githubusercontent.com/CubeShield/CubeShield8-Instance/refs/heads/main/logo.png",
+	"loader": "fabric",
+	"loader_version": "0.16.8",
+	"minecraft_version": "1.20.1",
 	"containers": [
 		{
 			"content_type": "mods",
